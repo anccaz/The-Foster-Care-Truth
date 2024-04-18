@@ -1,3 +1,6 @@
+An activist website for the fostercare system
+
+
 # Activist Toolkit Sample Project
 
 This is a place for you to start building your activist toolkit!
