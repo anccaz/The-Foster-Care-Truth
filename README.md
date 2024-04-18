@@ -1,5 +1,3 @@
-An activist website for the fostercare system
-
 
 # Activist Toolkit Sample Project
 
